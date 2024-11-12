@@ -1,2 +1,0 @@
-# swooshFlightApp
-flight tracker
