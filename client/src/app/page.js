@@ -22,7 +22,6 @@ const Home = function() {
   return (
     <>
     <nav className="flex place-content-evenly mt-5">
-      
  </nav>
 <div className="flex place-content-evenly mt-5 bg-sky=400">
     <img src="/logo_swoosh.png" width={450} height={100}></img>

@@ -1,4 +1,4 @@
-// File: /Users/sudharssen/Desktop/swooshFlightApp/client/src/app/layout.js
+// File: /Users/sudharssen/Desktop/Open/swooshFlightApp/client/src/app/layout.js
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
